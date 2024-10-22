@@ -8,7 +8,7 @@
 | 1N4148 Diodes | 14 |
 | THT 4.7k Ohm Resistors | 3 |
 | 0.96 inch SSD1306 OLED | 1 |
-| Keycaps | 12 |
+| DSA Keycaps | 12 |
 | Encoder Caps | 2 |
 | M3x20mm Screws | 4 |
 
